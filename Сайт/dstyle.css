@@ -1,0 +1,47 @@
+html {
+    background-color: white; 
+    background-attachment: fixed;
+    background-size: cover;
+   }
+
+.topik {
+    width: 100%;
+    height: 70px;
+    margin-bottom: 10px;
+    background-color: #339900;
+    position:fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    
+}
+.topik a{
+    text-decoration: none;
+    margin: 15px;
+    transition: .5s;
+}
+.intro {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    height: 100vh;
+    width: 100%;
+    background-image: url(dfull.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.intro h1 {
+    font-size: 100px;
+    text-align:center;
+}
+.intro p {
+    margin-top: 200px;
+    font-size: 50px;
+    margin-left: 40%;
+}
+iframe{
+    margin-left: 25%;
+    margin-right: 25%;
+}
